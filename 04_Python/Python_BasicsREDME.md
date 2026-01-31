@@ -1,26 +1,28 @@
-01_print.md
+# Python_Basics
 
-02_numbers_and_math.md
+01_print
 
-03_variables.md
+02_numbers_and_math
 
-04_strings.md
+03_variables
 
-05_input.md
+04_strings
 
-06_type_conversion.md
+05_input
 
-07_conditions.md
+06_type_conversion
 
-08_loops.md
+07_conditions
 
-09_functions.md
+08_loops
 
-10_basic_data_structures.md
+09_functions
+
+10_basic_data_structures
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
-# Print Statement
+Print Statement
 
 The `print()` function is used to display output to the screen.
 
@@ -30,4 +32,57 @@ Example:
 ```python
 print("Hello, world!")
 
-Hello, world!
+```
+_______________________________________________________________________________________________________________________________________________________________________________________________________
+
+numbers_and_math
+
+```python
+#This program adds two numbers
+
+num1 = 1
+num2 = 2
+
+#Add two numbers
+
+sum = num1 + num2
+
+#Display the sum
+
+print("The sum of the numbers is:", sum)
+```
+
+
+---
+
+#Python supports basic arithmetic operations.
+
+Examples:
+```python
+print(5 + 3)
+print(10 - 4)
+print(6 * 2)
+print(8 / 2)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

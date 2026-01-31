@@ -25,3 +25,9 @@ This is a working engineer's notebook.
 - PowerShell administration & automation
 - Linux internals & system behavior
 - Real-world IT scenarios
+
+
+## Repository Structure
+
+Each top-level directory represents a core IT domain.
+Inside each domain, content is organized into commands, concepts, scripts, and real-world scenarios.
